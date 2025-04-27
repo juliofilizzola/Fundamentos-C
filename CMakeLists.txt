@@ -14,4 +14,7 @@ add_executable(fundamentos_c
     .gitignore
     README.md
         matriz/matriz.c
-        matriz/matriz.h)
+        matriz/matriz.h
+        matriz/matriz_2.c
+        matriz/matriz_2.h
+)

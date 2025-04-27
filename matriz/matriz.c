@@ -5,11 +5,12 @@
 #include "matriz.h"
 
 #include <stdio.h>
-
+#include "./matriz_2.h"
 
 int main() {
     // definindo exemplos praticos de  matrizes
 
+    main_2();
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
             const int matriz[3][3] = {

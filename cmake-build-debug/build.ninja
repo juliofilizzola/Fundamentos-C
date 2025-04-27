@@ -55,6 +55,12 @@ build CMakeFiles/fundamentos_c.dir/matriz/matriz.c.obj: C_COMPILER__fundamentos_
   OBJECT_DIR = CMakeFiles\fundamentos_c.dir
   OBJECT_FILE_DIR = CMakeFiles\fundamentos_c.dir\matriz
 
+build CMakeFiles/fundamentos_c.dir/matriz/matriz_2.c.obj: C_COMPILER__fundamentos_c_unscanned_Debug C$:/Users/Julio/Documents/dev/fundamentos-c/matriz/matriz_2.c || cmake_object_order_depends_target_fundamentos_c
+  DEP_FILE = CMakeFiles\fundamentos_c.dir\matriz\matriz_2.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\fundamentos_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\fundamentos_c.dir\matriz
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target fundamentos_c
@@ -63,7 +69,7 @@ build CMakeFiles/fundamentos_c.dir/matriz/matriz.c.obj: C_COMPILER__fundamentos_
 #############################################
 # Link the executable fundamentos_c.exe
 
-build fundamentos_c.exe: C_EXECUTABLE_LINKER__fundamentos_c_Debug CMakeFiles/fundamentos_c.dir/matriz/matriz.c.obj
+build fundamentos_c.exe: C_EXECUTABLE_LINKER__fundamentos_c_Debug CMakeFiles/fundamentos_c.dir/matriz/matriz.c.obj CMakeFiles/fundamentos_c.dir/matriz/matriz_2.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\fundamentos_c.dir

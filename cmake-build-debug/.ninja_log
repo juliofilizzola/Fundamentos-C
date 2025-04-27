@@ -1,11 +1,8 @@
 # ninja log v6
-2	105	7674902248532118	CMakeFiles/fundamentos_c.dir/matriz/matriz.c.obj	a90d3d3a39ec4fea
-106	270	7674902249568997	fundamentos_c.exe	5267869d18af2421
-4	76	7674902553638446	CMakeFiles/fundamentos_c.dir/matriz/matriz.c.obj	a90d3d3a39ec4fea
-76	168	7674902554361689	fundamentos_c.exe	5267869d18af2421
-4	76	7674902677683129	CMakeFiles/fundamentos_c.dir/matriz/matriz.c.obj	a90d3d3a39ec4fea
-76	169	7674902678406650	fundamentos_c.exe	5267869d18af2421
-3	83	7674903671219891	CMakeFiles/fundamentos_c.dir/matriz/matriz.c.obj	a90d3d3a39ec4fea
-84	174	7674903672019869	fundamentos_c.exe	5267869d18af2421
 4	71	7674912553148596	CMakeFiles/fundamentos_c.dir/matriz/matriz.c.obj	a90d3d3a39ec4fea
 71	160	7674912553820883	fundamentos_c.exe	5267869d18af2421
+4	73	7674913413310048	CMakeFiles/fundamentos_c.dir/matriz/matriz_2.c.obj	c1a3a62e6b8fbf79
+4	69	7674913999268694	CMakeFiles/fundamentos_c.dir/matriz/matriz_2.c.obj	c1a3a62e6b8fbf79
+8	74	7674915507592479	CMakeFiles/fundamentos_c.dir/matriz/matriz_2.c.obj	c1a3a62e6b8fbf79
+4	75	7674915507552303	CMakeFiles/fundamentos_c.dir/matriz/matriz.c.obj	a90d3d3a39ec4fea
+75	169	7674915508260287	fundamentos_c.exe	1f771e24d21c0e36
