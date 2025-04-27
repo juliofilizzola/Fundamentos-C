@@ -17,4 +17,6 @@ add_executable(fundamentos_c
         matriz/matriz.h
         matriz/matriz_2.c
         matriz/matriz_2.h
+        matriz/matriz_loop.c
+        matriz/matriz_loop.h
 )
