@@ -15,8 +15,10 @@ int main() {
         {7, 8, 9}
     };
 
-    // printf(matriz);
-    printf('xablau');
-
-    // Exibindo a matriz
+    for (int i = 0; i < 3; i++) {
+        for (int j = 0; j < 3; j++) {
+            printf("%d ", matriz[i][j]);
+        }
+        printf("\n");
+    }
 }
