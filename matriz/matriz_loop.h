@@ -4,5 +4,5 @@
 
 #ifndef MATRIZ_LOOP_H
 #define MATRIZ_LOOP_H
-matriz_loop();
+void matriz_loop(void);
 #endif //MATRIZ_LOOP_H

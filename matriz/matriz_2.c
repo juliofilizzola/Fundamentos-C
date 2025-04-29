@@ -5,7 +5,7 @@
 #include "matriz_2.h"
 #include <stdio.h>
 
-int main_2() {
+void main_2(void) {
     int matriz[3][3];  // Declaração de uma matriz 3x3 de inteiros
 
     // Inicializando os elementos da matriz
@@ -22,6 +22,4 @@ int main_2() {
     // Acessando elementos da matriz
     printf("O elemento na posição [0][0] é %d\n", matriz[0][0]);
     printf("O elemento na posição [1][1] é %d\n", matriz[1][1]);
-
-    return 0;
 }

@@ -5,8 +5,8 @@
 #include "matriz.h"
 
 #include <stdio.h>
-#include "./matriz_2.h"
-#include "./matriz_loop.h"
+#include "../matriz/matriz_2.h"
+#include "../matriz/matriz_loop.h"
 
 int main() {
     // definindo exemplos praticos de  matrizes
@@ -24,4 +24,5 @@ int main() {
         }
         printf("\n");
     }
+    return 0;
 }

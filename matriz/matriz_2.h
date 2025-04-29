@@ -4,5 +4,5 @@
 
 #ifndef MATRIZ_2_H
 #define MATRIZ_2_H
-main_2();
+void main_2(void);
 #endif //MATRIZ_2_H
